@@ -1,0 +1,5 @@
+*lock.json
+*.lock
+.env
+node_modules
+api/node_modules
